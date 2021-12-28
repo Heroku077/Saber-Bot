@@ -13,7 +13,7 @@
 </a>
 
 <p align = "center">
-<a href = "https://github.com/imtheekshana126/saber-bot">
+<a href = "https://github.com/Heroku077/Saber-Bot">
 <img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
 </a>
@@ -36,7 +36,7 @@ Can be found on Telegram as [TGN Saber](https://t.me/thesaberbot)</br>
 
 
 ## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/saber-bot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Heroku077/saber-bot)
 
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
 
